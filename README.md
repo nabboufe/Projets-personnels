@@ -5,7 +5,7 @@ NOTE : Si vous voulez les jeux de données, demandez les moi et je vous les four
 
 WORK IN PROGRESS - Section en cours de rédaction.
 
-**FR_city-satellite-recognition** (En cours de rédaction)
+**FR_city-satellite-recognition** (En cours de rédaction - Jeu de donnée disponible)
 
 Algorithme qui prends des images satellite d'une grande ville Française et qui est capable de la reconnaître.
 Villes supportées : Bordeaux, Caen, Lille, Lyon, Marseille, Paris, Rennes, Rouen, Strasbourg, Toulouse
@@ -27,11 +27,11 @@ on va donc ensuite le transformer en Classifier pour enfin pouvoir discriminer l
 
 Pour plus de commentaire sur le code, voir le dossier IMDB-Classifier, puis le fichier IMDB-Classifier.ypnb 
 
-**whart?, Algorithme de reconnaissance de courant artistique**
+**whart?, Algorithme de reconnaissance de courant artistique** (À rédiger)
 
 Courant reconnus : classicisme, cubisme, expressionisme, fauvisme, gothique, impressionisme, manierisme, réalisme,
 renaissance, romantisme, surréalisme.
 
-**Implémentation en C et en Python du Stochastic Gradient Descent et de la linear regression**
+**Implémentation en C et en Python du Stochastic Gradient Descent et de la linear regression** (À rédiger)
 
-(À rédiger)
+...
