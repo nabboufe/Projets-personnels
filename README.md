@@ -5,7 +5,12 @@ NOTE : Si vous voulez les jeux de données, demandez les moi et je vous les four
 
 WORK IN PROGRESS - Section en cours de rédaction.
 
-**IMDB Classifier**
+**FR_city-satellite-recognition** (En cours de rédaction)
+
+Algorithme qui prends des images satellite d'une grande ville Française et qui est capable de la reconnaître.
+Villes supportées : Bordeaux, Caen, Lille, Lyon, Marseille, Paris, Rennes, Rouen, Strasbourg, Toulouse
+
+**IMDB Classifier** (Rédaction terminée)
 
 Modèle de ML qui est capable de classifier les critiques de films de la base de donnée de IMDB
 en fonction de si elles sont positives ou négatives.
@@ -21,13 +26,6 @@ Une fois que c'est fait, on dispose d'un language model qui est spécialisé dan
 on va donc ensuite le transformer en Classifier pour enfin pouvoir discriminer les critiques positives et négatives.
 
 Pour plus de commentaire sur le code, voir le dossier IMDB-Classifier, puis le fichier IMDB-Classifier.ypnb 
-
-**FR_city-satellite-recognition**
-
-Algorithme qui prends des images satellite d'une grande ville Française et qui est capable de la reconnaître.
-Villes supportées : Bordeaux, Caen, Lille, Lyon, Marseille, Paris, Rennes, Rouen, Strasbourg, Toulouse
-
-(En cours de rédaction)
 
 **whart?, Algorithme de reconnaissance de courant artistique**
 
