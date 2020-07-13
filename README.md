@@ -1,7 +1,7 @@
 # Projets-personnel
 Vous trouverez ici tous les projets personnels que j'ai pu faire en ML, commentés :
 
-NOTE : Si vous voulez les jeux de données, demandez les moi et je vous les fournirais.
+NOTE : Si vous voulez les jeux de données, demandez les moi et je vous les fournirais, s'ils ne sont pas déjà disponibles.
 
 WORK IN PROGRESS - Section en cours de rédaction.
 
